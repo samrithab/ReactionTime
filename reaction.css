@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: white;
+}
+
+#top{
+    text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: white;
+	color: black;
+	margin-top: 50px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#instruction{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+#time{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
